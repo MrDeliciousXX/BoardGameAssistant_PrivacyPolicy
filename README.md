@@ -1,1 +1,1 @@
-# BoardGameAssistant_PrivacyPolicy
+# Board Game Assistant - Privacy Policy
