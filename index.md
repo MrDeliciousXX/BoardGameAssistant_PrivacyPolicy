@@ -6,7 +6,7 @@ The app allows users to record information about board game sessions, including:
 - Game results,
 - Photos from the gallery (at the user’s request).
 
-All data is #stored locally on the user’s device# and is not shared with the app developers or any third parties in any way.
+All data is **stored locally on the user’s device** and is not shared with the app developers or any third parties in any way.
 
 ### Permissions
 The app may request access to the device's storage in order to allow the user to add a photo from the gallery. No other permissions are required.
