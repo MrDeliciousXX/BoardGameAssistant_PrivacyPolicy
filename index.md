@@ -1,4 +1,4 @@
-Your privacy is important to us. The Board Game Assistant app does not collect, store, or transmit any personal data to external servers.
+Your privacy is important to us. The Game Stats app does not collect, store, or transmit any personal data to external servers.
 
 ### What data is stored?
 The app allows users to record information about board game sessions, including:
