@@ -1,1 +1,1 @@
-# Board Game Assistant - Privacy Policy
+# Game Stats - Privacy Policy
